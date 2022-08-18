@@ -1,0 +1,42 @@
+h1 {
+    color: #ffffff;
+    font-size: 200%;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+    
+}
+header {
+    color: #ffffff;
+    font-size: 100%;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+}
+section {
+    color: #ffffff;
+    font-size: 100%;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+}
+aside { 
+    color: #ffffff;
+    font-size: 100%;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: left;
+}
+footer {
+    color: #ffffff;
+    font-size: 100%;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+}
+a { 
+    text-decoration: #ffffff;
+   
+   } 
+   #navbar {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration-color: #ffffff;
+  }
+  #navbar li { display: inline; }
